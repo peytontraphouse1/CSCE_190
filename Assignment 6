@@ -1,0 +1,7 @@
+Problem: help students keep track of assignments
+inputs: data (assignment name, due date, progress)
+output: list in due date order
+criteria for problem being solved:
+solving problem: put list in order
+
+Problem statement
